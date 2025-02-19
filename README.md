@@ -16,9 +16,9 @@
 ---
 
 ### 📊 GitHub Stats  
-![Hasnine's GitHub stats](https://github-readme-stats.vercel.app/api?username=howitzer7373&show_icons=true&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=howitzer7373&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=howitzer7373&layout=compact&theme=dark)  
+![Hasnine's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasnine-kabir&show_icons=true&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasnine-kabir&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnine-kabir&layout=compact&theme=dark)  
 
 ---
 
