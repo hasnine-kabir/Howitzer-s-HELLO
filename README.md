@@ -17,7 +17,7 @@
 
 ### 📊 GitHub Stats  
 ![Hasnine's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasnine-kabir&show_icons=true&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasnine-kabir&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasnine-kabir&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnine-kabir&layout=compact&theme=dark)  
 
 ---
