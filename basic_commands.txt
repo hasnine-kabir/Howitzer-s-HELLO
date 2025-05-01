@@ -1,0 +1,5 @@
+ create repo in github , 
+ git clone "link" in terminal
+ add files or make changes git add --all
+ commit files , git commit -m "meaasge"
+ git push origin main
