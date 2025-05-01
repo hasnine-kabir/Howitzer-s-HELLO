@@ -3,3 +3,13 @@
  add files or make changes git add --all
  commit files , git commit -m "meaasge"
  git push origin main
+
+
+ local machine to remoote
+
+ mkdir name //  make manually a folder
+ git init ... e nilam
+ then add, commit
+ then create repo in github 
+ then terminal cmd -- git remote add origin "link"
+ then git push origin main
